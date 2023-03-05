@@ -135,13 +135,22 @@
         "RAM": "DDR4 ECC UDIMM 8 GB x 2"
     },
     {
-        "Model": "DS1823xs+",
+        "Model": "RS2423RP+",
         "CPU Model": "AMD Ryzen V1780B",
         "Cores": "Quad Core",
         "Threads": "8",
         "FPU": "Yes",
         "PackageArch": "v1000",
-        "RAM": "DDR4 ECC SODIMM 8 GB"
+        "RAM": "DDR4 ECC UDIMM 8 GB"
+    },
+    {
+        "Model": "RS2423+",
+        "CPU Model": "AMD Ryzen V1780B",
+        "Cores": "Quad Core",
+        "Threads": "8",
+        "FPU": "Yes",
+        "PackageArch": "v1000",
+        "RAM": "DDR4 ECC UDIMM 8 GB"
     },
     {
         "Model": "DS923+",
