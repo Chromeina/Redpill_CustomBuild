@@ -95,5 +95,8 @@
     },
     "DS723+": {
         "7.1.1-42962": "https://global.synologydownload.com/download/DSM/release/7.1.1/42962/DSM_DS723%2B_42962.pat?model=DS723%2B&bays=2&dsm_version=7.1.1&build_number=42962"
+    },
+    "SA3600": {
+        "7.1.1-42962": "https://global.synologydownload.com/download/DSM/release/7.1.1/42962-1/DSM_SA3600_42962.pat?model=SA3600&bays=12&dsm_version=7.1.1&build_number=42962"
     }
 }
