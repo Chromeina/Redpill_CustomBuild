@@ -171,6 +171,24 @@
         "RAM": "DDR4 ECC SODIMM 2 GB"
     },
     {
+        "Model": "DS423+",
+        "CPU Model": "Intel Celeron J4125",
+        "Cores": "Quad Core",
+        "Threads": "4",
+        "FPU": "Yes",
+        "PackageArch": "geminilake",
+        "RAM": "DDR4 SODIMM 2 GB"
+    },
+    {
+        "Model": "DS423",
+        "CPU Model": "Realtek RTD1619B",
+        "Cores": "Quad Core",
+        "Threads": "4",
+        "FPU": "Yes",
+        "PackageArch": "rtd1619b",
+        "RAM": "DDR4 2 GB"
+    },
+    {
         "Model": "DS223",
         "CPU Model": "Realtek RTD1619B",
         "Cores": "Quad Core",
