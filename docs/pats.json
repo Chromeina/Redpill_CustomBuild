@@ -1,27 +1,32 @@
 {
     "DS1019+": {
         "7.0.1-42218": "https://global.synologydownload.com/download/DSM/release/7.0.1/42218/DSM_DS1019%2B_42218.pat?model=DS1019%2B&bays=5&dsm_version=7.0.1&build_number=42218",
-        "7.1.1-42962": "https://global.synologydownload.com/download/DSM/release/7.1.1/42962-1/DSM_DS1019%2B_42962.pat?model=DS1019%2B&bays=5&dsm_version=7.1.1&build_number=42962"
+        "7.1.1-42962": "https://global.synologydownload.com/download/DSM/release/7.1.1/42962-1/DSM_DS1019%2B_42962.pat?model=DS1019%2B&bays=5&dsm_version=7.1.1&build_number=42962",
+        "7.2.0-64216": "https://global.synologydownload.com/download/DSM/release/7.1.1/42962-1/DSM_DS1019%2B_42962.pat?model=DS1019%2B&bays=5&dsm_version=7.1.1&build_number=42962"
     },
     "DS1520+": {
         "7.0.1-42218": "https://global.synologydownload.com/download/DSM/release/7.0.1/42218/DSM_DS1520%2B_42218.pat?model=DS1520%2B&bays=5&dsm_version=7.0.1&build_number=42218",
         "7.1.0-42661": "https://global.synologydownload.com/download/DSM/release/7.1.1/42962-1/DSM_DS1520%2B_42962.pat?model=DS1520%2B&bays=5&dsm_version=7.1.1&build_number=42962",
-        "7.1.1-42962": "https://global.synologydownload.com/download/DSM/release/7.1.1/42962-1/DSM_DS1520%2B_42962.pat?model=DS1520%2B&bays=5&dsm_version=7.1.1&build_number=42962"
+        "7.1.1-42962": "https://global.synologydownload.com/download/DSM/release/7.1.1/42962-1/DSM_DS1520%2B_42962.pat?model=DS1520%2B&bays=5&dsm_version=7.1.1&build_number=42962",
+        "7.2.0-64216": "https://global.synologydownload.com/download/DSM/release/7.1.1/42962-1/DSM_DS1520%2B_42962.pat?model=DS1520%2B&bays=5&dsm_version=7.1.1&build_number=42962"
     },
     "DS1621+": {
         "7.0.1-42218": "https://global.synologydownload.com/download/DSM/release/7.0.1/42218/DSM_DS1621%2B_42218.pat?model=DS1621%2B&bays=6&dsm_version=7.0.1&build_number=42218",
         "7.1.0-42661": "https://global.synologydownload.com/download/DSM/release/7.1.1/42962-1/DSM_DS1621%2B_42962.pat?model=DS1621%2B&bays=6&dsm_version=7.1.1&build_number=42962",
-        "7.1.1-42962": "https://global.synologydownload.com/download/DSM/release/7.1.1/42962-1/DSM_DS1621%2B_42962.pat?model=DS1621%2B&bays=6&dsm_version=7.1.1&build_number=42962"
+        "7.1.1-42962": "https://global.synologydownload.com/download/DSM/release/7.1.1/42962-1/DSM_DS1621%2B_42962.pat?model=DS1621%2B&bays=6&dsm_version=7.1.1&build_number=42962",
+        "7.2.0-64216": "https://global.synologydownload.com/download/DSM/release/7.1.1/42962-1/DSM_DS1621%2B_42962.pat?model=DS1621%2B&bays=6&dsm_version=7.1.1&build_number=42962"
     },
     "DS1621xs+": {
         "7.0.1-42218": "https://global.synologydownload.com/download/DSM/release/7.0.1/42218/DSM_DS1621xs%2B_42218.pat?model=DS1621xs%2B&bays=6&dsm_version=7.0.1&build_number=42218",
         "7.1.0-42661": "https://global.synologydownload.com/download/DSM/release/7.1.1/42962-1/DSM_DS1621xs%2B_42962.pat?model=DS1621xs%2B&bays=6&dsm_version=7.1.1&build_number=42962",
-        "7.1.1-42962": "https://global.synologydownload.com/download/DSM/release/7.1.1/42962-1/DSM_DS1621xs%2B_42962.pat?model=DS1621xs%2B&bays=6&dsm_version=7.1.1&build_number=42962"
+        "7.1.1-42962": "https://global.synologydownload.com/download/DSM/release/7.1.1/42962-1/DSM_DS1621xs%2B_42962.pat?model=DS1621xs%2B&bays=6&dsm_version=7.1.1&build_number=42962",
+        "7.2.0-64216": "https://global.synologydownload.com/download/DSM/release/7.1.1/42962-1/DSM_DS1621xs%2B_42962.pat?model=DS1621xs%2B&bays=6&dsm_version=7.1.1&build_number=42962"
     },
     "DS2422+": {
         "7.0.1-42218": "https://global.synologydownload.com/download/DSM/release/7.0.1/42218/DSM_DS2422%2B_42218.pat?model=DS2422%2B&bays=12&dsm_version=7.0.1&build_number=42218",
         "7.1.0-42661": "https://global.synologydownload.com/download/DSM/release/7.1.1/42962-1/DSM_DS2422%2B_42962.pat?model=DS2422%2B&bays=12&dsm_version=7.1.1&build_number=42962",
-        "7.1.1-42962": "https://global.synologydownload.com/download/DSM/release/7.1.1/42962-1/DSM_DS2422%2B_42962.pat?model=DS2422%2B&bays=12&dsm_version=7.1.1&build_number=42962"
+        "7.1.1-42962": "https://global.synologydownload.com/download/DSM/release/7.1.1/42962-1/DSM_DS2422%2B_42962.pat?model=DS2422%2B&bays=12&dsm_version=7.1.1&build_number=42962",
+        "7.2.0-64216": "https://global.synologydownload.com/download/DSM/release/7.1.1/42962-1/DSM_DS2422%2B_42962.pat?model=DS2422%2B&bays=12&dsm_version=7.1.1&build_number=42962"
     },
     "DS3615xs": {
         "7.0.1-42218": "https://global.synologydownload.com/download/DSM/release/7.0.1/42218/DSM_DS3615xs_42218.pat?model=DS3615xs&bays=12&dsm_version=7.0.1&build_number=42218",
@@ -31,49 +36,59 @@
     "DS3617xs": {
         "7.0.1-42218": "https://global.synologydownload.com/download/DSM/release/7.0.1/42218/DSM_DS3617xs_42218.pat?model=DS3617xs&bays=12&dsm_version=7.0.1&build_number=42218",
         "7.1.0-42661": "https://global.synologydownload.com/download/DSM/release/7.1.1/42962-1/DSM_DS3617xs_42962.pat?model=DS3617xs&bays=12&dsm_version=7.1.1&build_number=42962",
-        "7.1.1-42962": "https://global.synologydownload.com/download/DSM/release/7.1.1/42962-1/DSM_DS3617xs_42962.pat?model=DS3617xs&bays=12&dsm_version=7.1.1&build_number=42962"
+        "7.1.1-42962": "https://global.synologydownload.com/download/DSM/release/7.1.1/42962-1/DSM_DS3617xs_42962.pat?model=DS3617xs&bays=12&dsm_version=7.1.1&build_number=42962",
+        "7.2.0-64216": "https://global.synologydownload.com/download/DSM/release/7.1.1/42962-1/DSM_DS3617xs_42962.pat?model=DS3617xs&bays=12&dsm_version=7.1.1&build_number=42962"
     },
     "DS3622xs+": {
         "7.0.1-42218": "https://global.synologydownload.com/download/DSM/release/7.0.1/42218/DSM_DS3622xs%2B_42218.pat?model=DS3622xs%2B&bays=12&dsm_version=7.0.1&build_number=42218",
         "7.1.0-42661": "https://global.synologydownload.com/download/DSM/release/7.1.1/42962-1/DSM_DS3622xs%2B_42962.pat?model=DS3622xs%2B&bays=12&dsm_version=7.1.1&build_number=42962",
-        "7.1.1-42962": "https://global.synologydownload.com/download/DSM/release/7.1.1/42962-1/DSM_DS3622xs%2B_42962.pat?model=DS3622xs%2B&bays=12&dsm_version=7.1.1&build_number=42962"
+        "7.1.1-42962": "https://global.synologydownload.com/download/DSM/release/7.1.1/42962-1/DSM_DS3622xs%2B_42962.pat?model=DS3622xs%2B&bays=12&dsm_version=7.1.1&build_number=42962",
+        "7.2.0-64216": "https://global.synologydownload.com/download/DSM/release/7.1.1/42962-1/DSM_DS3622xs%2B_42962.pat?model=DS3622xs%2B&bays=12&dsm_version=7.1.1&build_number=42962"
     },
     "DS918+": {
         "7.0.1-42218": "https://global.synologydownload.com/download/DSM/release/7.0.1/42218/DSM_DS918%2B_42218.pat?model=DS918%2B&bays=4&dsm_version=7.0.1&build_number=42218",
         "7.1.0-42661": "https://global.synologydownload.com/download/DSM/release/7.1.1/42962-1/DSM_DS918%2B_42962.pat?model=DS918%2B&bays=4&dsm_version=7.1.1&build_number=42962",
-        "7.1.1-42962": "https://global.synologydownload.com/download/DSM/release/7.1.1/42962-1/DSM_DS918%2B_42962.pat?model=DS918%2B&bays=4&dsm_version=7.1.1&build_number=42962"
+        "7.1.1-42962": "https://global.synologydownload.com/download/DSM/release/7.1.1/42962-1/DSM_DS918%2B_42962.pat?model=DS918%2B&bays=4&dsm_version=7.1.1&build_number=42962",
+        "7.2.0-64216": "https://global.synologydownload.com/download/DSM/release/7.1.1/42962-1/DSM_DS918%2B_42962.pat?model=DS918%2B&bays=4&dsm_version=7.1.1&build_number=42962"
     },
     "DS920+": {
         "7.0.1-42218": "https://global.synologydownload.com/download/DSM/release/7.0.1/42218/DSM_DS920%2B_42218.pat?model=DS920%2B&bays=4&dsm_version=7.0.1&build_number=42218",
         "7.1.0-42661": "https://global.synologydownload.com/download/DSM/release/7.1.1/42962-1/DSM_DS920%2B_42962.pat?model=DS920%2B&bays=4&dsm_version=7.1.1&build_number=42962",
-        "7.1.1-42962": "https://global.synologydownload.com/download/DSM/release/7.1.1/42962-1/DSM_DS920%2B_42962.pat?model=DS920%2B&bays=4&dsm_version=7.1.1&build_number=42962"
+        "7.1.1-42962": "https://global.synologydownload.com/download/DSM/release/7.1.1/42962-1/DSM_DS920%2B_42962.pat?model=DS920%2B&bays=4&dsm_version=7.1.1&build_number=42962",
+        "7.2.0-64216": "https://global.synologydownload.com/download/DSM/release/7.1.1/42962-1/DSM_DS920%2B_42962.pat?model=DS920%2B&bays=4&dsm_version=7.1.1&build_number=42962"
     },
     "DS923+": {
-        "7.1.1-42962": "https://global.synologydownload.com/download/DSM/release/7.1.1/42962/DSM_DS923%2B_42962.pat?model=DS923%2B&bays=4&dsm_version=7.1.1&build_number=42962"
+        "7.1.1-42962": "https://global.synologydownload.com/download/DSM/release/7.1.1/42962/DSM_DS923%2B_42962.pat?model=DS923%2B&bays=4&dsm_version=7.1.1&build_number=42962",
+        "7.2.0-64216": "https://global.synologydownload.com/download/DSM/release/7.1.1/42962/DSM_DS923%2B_42962.pat?model=DS923%2B&bays=4&dsm_version=7.1.1&build_number=42962"
     },
     "DVA1622": {
         "7.1.0-42661": "https://global.synologydownload.com/download/DSM/release/7.1.1/42962-1/DSM_DVA1622_42962.pat?model=DVA1622&bays=2&dsm_version=7.1.1&build_number=42962",
         "7.1.1-42962": "https://global.synologydownload.com/download/DSM/release/7.1.1/42962-1/DSM_DVA1622_42962.pat?model=DVA1622&bays=2&dsm_version=7.1.1&build_number=42962",
+        "7.2.0-64216": "https://global.synologydownload.com/download/DSM/release/7.1.1/42962-1/DSM_DVA1622_42962.pat?model=DVA1622&bays=2&dsm_version=7.1.1&build_number=42962",
         "7.0.1-42218": "https://global.synologydownload.com/download/DSM/release/7.1.1/42962-1/DSM_DVA1622_42962.pat?model=DVA1622&bays=2&dsm_version=7.1.1&build_number=42962"
     },
     "DVA3219": {
         "7.0.1-42218": "https://global.synologydownload.com/download/DSM/release/7.0.1/42218/DSM_DVA3219_42218.pat?model=DVA3219&bays=4&dsm_version=7.0.1&build_number=42218",
         "7.1.0-42661": "https://global.synologydownload.com/download/DSM/release/7.1.1/42962-1/DSM_DVA3219_42962.pat?model=DVA3219&bays=4&dsm_version=7.1.1&build_number=42962",
-        "7.1.1-42962": "https://global.synologydownload.com/download/DSM/release/7.1.1/42962-1/DSM_DVA3219_42962.pat?model=DVA3219&bays=4&dsm_version=7.1.1&build_number=42962"
+        "7.1.1-42962": "https://global.synologydownload.com/download/DSM/release/7.1.1/42962-1/DSM_DVA3219_42962.pat?model=DVA3219&bays=4&dsm_version=7.1.1&build_number=42962",
+        "7.2.0-64216": "https://global.synologydownload.com/download/DSM/release/7.1.1/42962-1/DSM_DVA3219_42962.pat?model=DVA3219&bays=4&dsm_version=7.1.1&build_number=42962"
     },
     "DVA3221": {
         "7.0.1-42218": "https://global.synologydownload.com/download/DSM/release/7.0.1/42218/DSM_DVA3221_42218.pat?model=DVA3221&bays=4&dsm_version=7.0.1&build_number=42218",
         "7.1.0-42661": "https://global.synologydownload.com/download/DSM/release/7.1.1/42962-1/DSM_DVA3221_42962.pat?model=DVA3221&bays=4&dsm_version=7.1.1&build_number=42962",
-        "7.1.1-42962": "https://global.synologydownload.com/download/DSM/release/7.1.1/42962-1/DSM_DVA3221_42962.pat?model=DVA3221&bays=4&dsm_version=7.1.1&build_number=42962"
+        "7.1.1-42962": "https://global.synologydownload.com/download/DSM/release/7.1.1/42962-1/DSM_DVA3221_42962.pat?model=DVA3221&bays=4&dsm_version=7.1.1&build_number=42962",
+        "7.2.0-64216": "https://global.synologydownload.com/download/DSM/release/7.1.1/42962-1/DSM_DVA3221_42962.pat?model=DVA3221&bays=4&dsm_version=7.1.1&build_number=42962"
     },
     "FS2500": {
         "7.0.1-42218": "https://global.synologydownload.com/download/DSM/release/7.0.1/42218/DSM_FS2500_42218.pat?model=FS2500&bays=12&dsm_version=7.0.1&build_number=42218",
         "7.1.0-42661": "https://global.synologydownload.com/download/DSM/release/7.1.1/42962-1/DSM_FS2500_42962.pat?model=FS2500&bays=12&dsm_version=7.1.1&build_number=42962",
-        "7.1.1-42962": "https://global.synologydownload.com/download/DSM/release/7.1.1/42962-1/DSM_FS2500_42962.pat?model=FS2500&bays=12&dsm_version=7.1.1&build_number=42962"
+        "7.1.1-42962": "https://global.synologydownload.com/download/DSM/release/7.1.1/42962-1/DSM_FS2500_42962.pat?model=FS2500&bays=12&dsm_version=7.1.1&build_number=42962",
+        "7.2.0-64216": "https://global.synologydownload.com/download/DSM/release/7.1.1/42962-1/DSM_FS2500_42962.pat?model=FS2500&bays=12&dsm_version=7.1.1&build_number=42962"
     },
     "FS6400": {
         "7.0.1-42218": "https://global.synologydownload.com/download/DSM/release/7.0.1/42218/DSM_FS6400_42218.pat?model=FS6400&bays=24&dsm_version=7.0.1&build_number=42218",
-        "7.1.1-42962": "https://global.synologydownload.com/download/DSM/release/7.1.1/42962-1/DSM_FS6400_42962.pat?model=FS6400&bays=24&dsm_version=7.1.1&build_number=42962"
+        "7.1.1-42962": "https://global.synologydownload.com/download/DSM/release/7.1.1/42962-1/DSM_FS6400_42962.pat?model=FS6400&bays=24&dsm_version=7.1.1&build_number=42962",
+        "7.2.0-64216": "https://global.synologydownload.com/download/DSM/release/7.1.1/42962-1/DSM_FS6400_42962.pat?model=FS6400&bays=24&dsm_version=7.1.1&build_number=42962"
     },
     "RS3413xs+": {
         "7.0.1-42218": "https://global.synologydownload.com/download/DSM/release/7.0.1/42218/DSM_RS3413xs%2B_42218.pat?model=RS3413xs%2B&bays=10&dsm_version=7.0.1&build_number=42218",
@@ -83,15 +98,18 @@
     "RS3618xs": {
         "7.0.1-42218": "https://global.synologydownload.com/download/DSM/release/7.0.1/42218/DSM_RS3618xs_42218.pat?model=RS3618xs&bays=12&dsm_version=7.0.1&build_number=42218",
         "7.1.0-42661": "https://global.synologydownload.com/download/DSM/release/7.1.1/42962-1/DSM_RS3618xs_42962.pat?model=RS3618xs&bays=12&dsm_version=7.1.1&build_number=42962",
-        "7.1.1-42962": "https://global.synologydownload.com/download/DSM/release/7.1.1/42962-1/DSM_RS3618xs_42962.pat?model=RS3618xs&bays=12&dsm_version=7.1.1&build_number=42962"
+        "7.1.1-42962": "https://global.synologydownload.com/download/DSM/release/7.1.1/42962-1/DSM_RS3618xs_42962.pat?model=RS3618xs&bays=12&dsm_version=7.1.1&build_number=42962",
+        "7.2.0-64216": "https://global.synologydownload.com/download/DSM/release/7.1.1/42962-1/DSM_RS3618xs_42962.pat?model=RS3618xs&bays=12&dsm_version=7.1.1&build_number=42962"
     },
     "RS4021xs+": {
         "7.0.1-42218": "https://global.synologydownload.com/download/DSM/release/7.0.1/42218/DSM_RS4021xs%2B_42218.pat?model=RS4021xs%2B&bays=16&dsm_version=7.0.1&build_number=42218",
         "7.1.0-42661": "https://global.synologydownload.com/download/DSM/release/7.1.1/42962-1/DSM_RS4021xs%2B_42962.pat?model=RS4021xs%2B&bays=16&dsm_version=7.1.1&build_number=42962",
-        "7.1.1-42962": "https://global.synologydownload.com/download/DSM/release/7.1.1/42962-1/DSM_RS4021xs%2B_42962.pat?model=RS4021xs%2B&bays=16&dsm_version=7.1.1&build_number=42962"
+        "7.1.1-42962": "https://global.synologydownload.com/download/DSM/release/7.1.1/42962-1/DSM_RS4021xs%2B_42962.pat?model=RS4021xs%2B&bays=16&dsm_version=7.1.1&build_number=42962",
+        "7.2.0-64216": "https://global.synologydownload.com/download/DSM/release/7.1.1/42962-1/DSM_RS4021xs%2B_42962.pat?model=RS4021xs%2B&bays=16&dsm_version=7.1.1&build_number=42962"
     },
     "SA6400": {
-        "7.1.1-42962": "https://global.synologydownload.com/download/DSM/release/7.1.1/42962/DSM_SA6400_42962.pat?model=SA6400&bays=12&dsm_version=7.1.1&build_number=42962"
+        "7.1.1-42962": "https://global.synologydownload.com/download/DSM/release/7.1.1/42962/DSM_SA6400_42962.pat?model=SA6400&bays=12&dsm_version=7.1.1&build_number=42962",
+        "7.2.0-64216": "https://global.synologydownload.com/download/DSM/release/7.1.1/42962/DSM_SA6400_42962.pat?model=SA6400&bays=12&dsm_version=7.1.1&build_number=42962"
     },
     "DS723+": {
         "7.1.1-42962": "https://global.synologydownload.com/download/DSM/release/7.1.1/42962/DSM_DS723%2B_42962.pat?model=DS723%2B&bays=2&dsm_version=7.1.1&build_number=42962"
