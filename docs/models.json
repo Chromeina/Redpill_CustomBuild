@@ -153,6 +153,15 @@
         "RAM": "DDR4 ECC UDIMM 8 GB"
     },
     {
+        "Model": "DS1823xs+",
+        "CPU Model": "AMD Ryzen V1780B",
+        "Cores": "Quad Core",
+        "Threads": "8",
+        "FPU": "Yes",
+        "PackageArch": "v1000",
+        "RAM": "DDR4 ECC SODIMM 8 GB"
+    },
+    {
         "Model": "DS923+",
         "CPU Model": "AMD Ryzen R1600",
         "Cores": "Dual Core",
